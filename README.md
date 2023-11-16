@@ -8,3 +8,5 @@ big amounts of numerical data and interpretate it with graphs <br>
 and averages.
 
 ### Credits
+`@python` for python programming language, <br>
+`unittest` library and its interpeter <br>
