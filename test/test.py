@@ -5,7 +5,13 @@ from core.matrices import matrix_subtract
 from core.matrices import matrix_multiply
 from core.matrices import matrix_quotient
 
+from core.statistic import average
 
+#class TestStatistic(unittest.TestCase):
+#    def testAverage(self):
+#        mockData = [7, 8, 7.5]
+#       r = average(mockData)
+#        self.assertEqual(r, 7.5)
 
 class TestMatricesOperations(unittest.TestCase):
     def testSum(self):
